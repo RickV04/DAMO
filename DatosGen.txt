@@ -1,0 +1,4 @@
+Nombre: Ricardo Ernesto Villarreal Castellon
+Telefono: 83872932
+Edad: 19
+Sexo: Masculino
