@@ -6,3 +6,4 @@ Sexo: Masculino
 Me gusta la programacion porque mediante esta podemos crear programas que solucionen
 problemas, ademas de la creacion de aplicaciones para la distraccion de las personas 
 y asi darle un toque mas feliz a la vida.
+
